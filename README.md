@@ -1,9 +1,10 @@
 <h1 align="center">Olá! Seja bem-vindo(a)</h1>
 
 <div>
-- Apaixonado por tecnologia e em busca do primeiro emprego na área de desenvolvimento; <br>
+- Apaixonado por tecnologia e em busca do primeiro emprego na área de desenvolvimento web; <br>
 - Estudando tecnologias desde 2021; <br>
 - Estudante de Análise e Desenvolvimento de Sistemas; 
+-
  </div> <br>
   
   
@@ -14,7 +15,6 @@
    <img align="center" alt="BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
    <img align="center" alt="Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-   <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   </div>   <br><br>
  
 
