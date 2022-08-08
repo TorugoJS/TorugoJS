@@ -32,7 +32,5 @@
 </div>
  
  <div align="center">
-  
   ![Snake animation](https://github.com/TorugoJS/TorugoJS/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+  </div>
