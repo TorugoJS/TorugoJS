@@ -2,7 +2,7 @@
 
 <div>
 - Apaixonado por tecnologia e em busca do primeiro emprego na área de desenvolvimento web; <br>
-- Estudando tecnologias desde 2021; <br>
+- Estudando tecnologias desde 08/2021; <br>
 - Estudante de Análise e Desenvolvimento de Sistemas; 
  </div> <br>
   
