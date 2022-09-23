@@ -1,37 +1,29 @@
-<h1 align="center">Olá! Seja bem-vindo(a) ao meu Github!</h1>
+# Olá! Seja bem-vindo(a) ao meu Github! Eu sou o Víctor Hugo. 👋
 
-<div>
-- Apaixonado por tecnologia e em busca do primeiro emprego na área de desenvolvimento web; <br>
-- Estudando tecnologias desde 08/2021; <br>
-- Estudante de Análise e Desenvolvimento de Sistemas; 
- </div> <br>
-  
-  
-  <div  align="center" style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
-   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-   <img align="center" alt="Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-  </div>   <br><br>
- 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugodev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/torugo_devjs/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/itorugo7)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.devfrontend@gmail.com) <br/><hr>
 
 
-<div align="center">
-  <a href="https://github.com/TorugoJS">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TorugoJS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorugoJS&layout=compact&langs_count=7&theme=dracula"/>
-</div> <br>
+![TorugoJS GitHub stats](https://github-readme-stats.vercel.app/api?username=TorugoJS&show_icons=true&theme=radical)
 
-  <div> 
-  <a href="https://www.instagram.com/torugo_devjs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:victor.devfrontend@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-hugodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## Tecnologias eu que uso em meu dia a dia:
+
+
+<div style="display: inline_block"><br/>
+    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<img  alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img alt="vs" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
- 
- <div align="center">
- 
-  ![Snake animation](https://github.com/TorugoJS/TorugoJS/blob/output/github-contribution-grid-snake.svg)
-  
-  </div>
+<br/>
+
+
+- Estudando e praticando React.js todos os dias! 🧑🏻‍💻<br>
+- Atualmente estou no 3º período de Análise e Desenvolvimento de Sistemas; 🖥️
+- Aprimorando meus conhecimentos de desenvolvendo projetos pessoais!!! 😁
