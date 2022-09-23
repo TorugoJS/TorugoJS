@@ -1,4 +1,4 @@
-# Olá! Seja bem-vindo(a) ao meu Github! Eu sou o Víctor Hugo. 👋
+# Olá! Seja bem-vindo(a) ao meu Github! Eu sou o Víctor Hugo, e sou desenvolvedor front-end! 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugodev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/torugo_devjs/)
@@ -27,4 +27,5 @@
 - Estudando e praticando React.js todos os dias!<br>
 - Atualmente estou no 3º período de Análise e Desenvolvimento de Sistemas.
 - Aprimorando meus conhecimentos de desenvolvendo projetos pessoais!
+- Disposto a aprender cada vez mais sobre tecnologia.
 - Em busca da minha primeira oportunidade em desenvolvimento web!
