@@ -8,7 +8,7 @@
 
 ![TorugoJS GitHub stats](https://github-readme-stats.vercel.app/api?username=TorugoJS&show_icons=true&theme=radical)
 
-## Tecnologias eu que uso em meu dia a dia:
+## Tecnologias que uso em meu dia a dia em projetos:
 
 
 <div style="display: inline_block"><br/>
@@ -24,6 +24,7 @@
 <br/>
 
 
-- Estudando e praticando React.js todos os dias! 🧑🏻‍💻<br>
-- Atualmente estou no 3º período de Análise e Desenvolvimento de Sistemas; 🖥️
-- Aprimorando meus conhecimentos de desenvolvendo projetos pessoais!!! 😁
+- Estudando e praticando React.js todos os dias!<br>
+- Atualmente estou no 3º período de Análise e Desenvolvimento de Sistemas.
+- Aprimorando meus conhecimentos de desenvolvendo projetos pessoais!
+- Em busca da minha primeira oportunidade em desenvolvimento web!
