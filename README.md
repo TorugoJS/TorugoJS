@@ -1,4 +1,4 @@
-# Olá! Seja bem-vindo(a) ao meu Github! Eu sou o Víctor Hugo, atualmente estudo desenvolvimento front-end! 👋
+# Olá! Seja bem-vindo(a) ao meu Github! Eu sou o Víctor Hugo, atualmente estudo desenvolvimento Front-end! 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugodev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/torugo_devjs/)
