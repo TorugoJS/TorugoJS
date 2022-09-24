@@ -10,7 +10,7 @@
 
 
  <img height="220px" src="https://github-readme-stats-beryl.vercel.app/api?username=TorugoJS&theme=tokyonight&show_icons=true" alt="TorugoJS"><img>
- <img height="220px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=TorugoJS&theme=tokyonight" alt="TorugoJS"><img>
+ <img height="210px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=TorugoJS&theme=tokyonight" alt="TorugoJS"><img>
 
 
 # Tecnologias que uso em meu dia a dia em projetos, são elas:
