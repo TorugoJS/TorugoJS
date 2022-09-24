@@ -1,4 +1,6 @@
-# Olá! Seja bem-vindo(a) ao meu Github! Eu sou o Víctor Hugo, atualmente estudo desenvolvimento Front-end! 👋
+
+
+# Olá! Seja bem-vindo(a) ao meu Github! Eu sou o Víctor Hugo. 👋 <br>  Sou Desenvolvedor Front-end! 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugodev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/torugo_devjs/)
@@ -6,9 +8,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.devfrontend@gmail.com) <br/><hr>
 
 
-![TorugoJS GitHub stats](https://github-readme-stats.vercel.app/api?username=TorugoJS&show_icons=true&theme=radical)
 
-## Tecnologias que uso em meu dia a dia em projetos:
+ <img height="220px" src="https://github-readme-stats-beryl.vercel.app/api?username=TorugoJS&theme=tokyonight&show_icons=true" alt="TorugoJS"><img>
+ <img height="220px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=TorugoJS&theme=tokyonight" alt="TorugoJS"><img>
+
+
+# Tecnologias que uso em meu dia a dia em projetos, são elas:
 
 
 <div style="display: inline_block"><br/>
@@ -29,3 +34,4 @@
 ### - Aprimorando meus conhecimentos de desenvolvendo projetos pessoais!
 ### - Disposto a aprender cada vez mais sobre tecnologia.
 ### - Em busca da minha primeira oportunidade em desenvolvimento web!
+</div>
