@@ -31,7 +31,7 @@
 
 ### - Estudando e praticando React.js todos os dias!<br>
 ### - Atualmente estou no 3º período de Análise e Desenvolvimento de Sistemas.
-### - Aprimorando meus conhecimentos de desenvolvendo projetos pessoais!
+### - Aprimorando meus conhecimentos e desenvolvendo projetos pessoais!
 ### - Disposto a aprender cada vez mais sobre tecnologia.
 ### - Em busca da minha primeira oportunidade em desenvolvimento web!
 </div>
