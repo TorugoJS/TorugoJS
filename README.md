@@ -13,7 +13,7 @@
  <img height="200px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=TorugoJS&theme=tokyonight" alt="TorugoJS"><img>
 
 
-# Tecnologias que uso em meu dia a dia em projetos, são elas:
+#  Tecnologias que uso em meu dia a dia em projetos, são elas:
 
 
 <div style="display: inline_block"><br/>
