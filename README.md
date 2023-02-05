@@ -25,4 +25,5 @@
 #### - Aprimorando meus conhecimentos e desenvolvendo projetos pessoais!
 #### - Disposto a aprender cada vez mais sobre tecnologia.
 #### - Em busca da minha primeira oportunidade em desenvolvimento web!
+
 </div>
